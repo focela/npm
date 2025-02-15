@@ -89,3 +89,6 @@ Temporary Items
 
 # SSL-related directories
 .well-known
+
+# Environment's params
+.env
